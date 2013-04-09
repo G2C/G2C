@@ -23,7 +23,7 @@ then execute the following:
     qmake
     make
 
-Alternatively, install `Qt Creator`_ and open the `litecoin-qt.pro` file.
+Alternatively, install `Qt Creator`_ and open the `Gen2Coin-qt.pro` file.
 
 An executable named `litecoin-qt` will be built.
 
