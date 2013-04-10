@@ -37,8 +37,8 @@ CODER ToDo list v1
  - UPDATE IF MORE SUGGERENCES ARE NEEDED!
 
 #ENGINE changes#
- - [ENGINE] Change block generation rate
- - [ENGINE] Change the genesis hash
+ - [ENGINE] Change block generation rate [DONE]
+ - [ENGINE] Change the genesis hash [Due just before release]
  - Think about other engine changes if needed
 
 #GUI changes#
