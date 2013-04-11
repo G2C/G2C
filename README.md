@@ -38,7 +38,7 @@ CODER ToDo list v1
 
 #ENGINE changes#
  - [ENGINE] Change block generation rate [DONE]
- - [ENGINE] Change the genesis hash [Due just before release]
+ - [ENGINE] Change the genesis hash [Due prior to release]
  - Think about other engine changes if needed
 
 #GUI changes#
@@ -54,7 +54,7 @@ CODER ToDo list v1
  - Think about addons (see brainstormer suggerences)
 
 #ALTCLIENTS#
- - [ALTCLIENT] Android client
+ - [ALTCLIENT] Android client --Would the HTML5 GUI be easy to port to android?
  - [ALTCLIENT] iOS client
  - [ALTCLIENT] Light client, only when the P2P-web is big enough
 
