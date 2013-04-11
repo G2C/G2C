@@ -1,9 +1,9 @@
-Building Litecoin
+Building Gen2Coin
 
-See doc/readme-qt.rst for instructions on building Litecoin-QT,
+See doc/readme-qt.rst for instructions on building Gen2Coin-QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Gen2Coin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building Gen2Coind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Gen2Coin.
