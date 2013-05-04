@@ -561,21 +561,6 @@
          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
         </property>
        </widget>
-       <widget class="QWebView" name="webView">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>149</y>
-          <width>231</width>
-          <height>201</height>
-         </rect>
-        </property>
-        <property name="url">
-         <url>
-          <string>https://www.twitter.com/Gen2Coin</string>
-         </url>
-        </property>
-       </widget>
        <widget class="QLabel" name="labelNumTransactions">
         <property name="geometry">
          <rect>
@@ -1933,20 +1918,12 @@
        <zorder>labelTransactionsStatus</zorder>
        <zorder>labelWalletStatus</zorder>
        <zorder>label_5</zorder>
-       <zorder>webView</zorder>
       </widget>
      </item>
     </layout>
    </item>
   </layout>
  </widget>
- <customwidgets>
-  <customwidget>
-   <class>QWebView</class>
-   <extends>QWidget</extends>
-   <header>QtWebKit/QWebView</header>
-  </customwidget>
- </customwidgets>
  <resources/>
  <connections/>
 </ui>
