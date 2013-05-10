@@ -544,7 +544,7 @@
          <rect>
           <x>410</x>
           <y>20</y>
-          <width>71</width>
+          <width>91</width>
           <height>31</height>
          </rect>
         </property>
@@ -1795,9 +1795,9 @@
        <widget class="QLabel" name="labelWalletStatus">
         <property name="geometry">
          <rect>
-          <x>70</x>
+          <x>90</x>
           <y>20</y>
-          <width>71</width>
+          <width>101</width>
           <height>21</height>
          </rect>
         </property>
