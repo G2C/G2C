@@ -55,7 +55,6 @@
 #include <QTimer>
 #include <QDragEnterEvent>
 #include <QUrl>
-#include <QPalette>
 
 #include <iostream>
 
