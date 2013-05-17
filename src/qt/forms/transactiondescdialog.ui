@@ -104,6 +104,9 @@
   <property name="windowTitle">
    <string>Transaction details</string>
   </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
+  </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
     <widget class="QTextEdit" name="detailText">
